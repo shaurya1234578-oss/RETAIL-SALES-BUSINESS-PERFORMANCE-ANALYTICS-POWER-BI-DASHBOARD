@@ -1,0 +1,5 @@
+# Power BI backup and temporary files
+*.pbix~
+*.pbit~
+*.tmp
+.DS_Store
